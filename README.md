@@ -36,4 +36,4 @@ Las pruebas automáticas están en `pruebas/PruebasCaminos.java` (clic derecho �
 
 ## Video demostrativo
 
-[Ver video](PEGAR_AQUI_EL_ENLACE_DE_YOUTUBE)
+[Ver video](https://youtu.be/Ig4Rse_s_y0)
