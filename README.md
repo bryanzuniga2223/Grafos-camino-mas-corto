@@ -1,8 +1,11 @@
 # Actividad 3.4: Optimización en Grafos — Algoritmos de Caminos Más Cortos
 
 **Universidad de Guadalajara — Centro Universitario de Tonalá**
+
 Ingeniería en Ciencias Computacionales
+
 Materia: Estructuras de Datos
+
 Docente: Jose Navarros Rios
 
 ## Integrantes del equipo
